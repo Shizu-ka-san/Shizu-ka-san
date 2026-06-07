@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/badis-boudjaoui)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badis-Boudjaoui)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:badisboudjaoui@outlook.com)
-[![Location](https://img.shields.io/badge/Béjaïa%2C_Algeria-🇩🇿-1f2937?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Luxembourg-🇱🇺-1f2937?style=for-the-badge)](#)
 
 <br/>
 
