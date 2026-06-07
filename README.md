@@ -43,6 +43,12 @@ class BadisBoudjaoui:
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,bash,arduino&theme=dark&perline=9" />
 </div>
 
+<div align="center">
+
+![Assembly](https://img.shields.io/badge/x86_Assembly-NASM%20%7C%208086-007ACC?style=for-the-badge\&logo=gnuemacs\&logoColor=white)
+
+</div>
+
 ### 🌐 Web & Frameworks
 
 <div align="center">
