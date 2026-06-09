@@ -25,8 +25,7 @@
 class BadisBoudjaoui:
     def __init__(self):
         self.name      = "Badis Boudjaoui"
-        self.school    = "ESTIN — Computer Science & Digital Technologies"
-        self.level     = "2nd Year Preparatory Cycle (Bac+2) · 2025/2026"
+        self.school    = "Engineering School"
         self.roles     = ["AI Engineer 🤖", "Full-Stack Dev 🌐", "Automation Architect ⚙️"]
         self.languages = ["Kabyle 🌟 (native)", "French 🇫🇷 (fluent)", "English 🇬🇧 (fluent)", "Arabic 🌍 (fluent)", "Japanese 🇯🇵 (intermediate)"]
 
